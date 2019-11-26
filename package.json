@@ -1,0 +1,6 @@
+{
+  "name": "it-requests",
+  "dependencies": {
+    "gmail-send": ""
+  }
+}
